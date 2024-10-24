@@ -74,7 +74,7 @@
   },
   "optionalDependencies": {
     "@babel/runtime": ">=7",
-    "react-native": ">=0.68"
+    "react-native": "0.75.4"
   },
   "files": [
     "dist",
